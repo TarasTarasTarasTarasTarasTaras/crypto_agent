@@ -1,0 +1,78 @@
+﻿# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# --- Virtual environments ---
+venv/
+.env/
+env/
+.venv/
+python_env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- Environment files ---
+*.env
+*.env.local
+*.secret
+secrets.json
+
+# --- Logs ---
+*.log
+logs/
+debug.log
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.iml
+
+# --- Data files (large datasets) ---
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.jsonl
+
+# --- Model files ---
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.h5
+*.ckpt
+
+# --- Cache ---
+.cache/
+*.cache
+pip-wheel-metadata/
+pip-wheel-metadata/
+wheels/
+*.pickle
+*.pkl
+
+# --- Outputs ---
+output/
+outputs/
+results/
+reports/
+
+# --- Build ---
+build/
+dist/
+*.egg-info/
+*.egg
