@@ -80,7 +80,7 @@
 ### 2. Клонування репозиторію
 
 ```bash
-git clone https://github.com/TarasTarasTarasTarasTarasTaras/crypto_agent/tree/main
+git clone https://github.com/TarasTarasTarasTarasTarasTaras/crypto_agent
 cd crypto-agent
 ```
 
